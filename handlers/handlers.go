@@ -7,7 +7,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/market/entity"
+	"github.com/rest-api/entity"
 )
 
 func GetProductsHandler(w http.ResponseWriter, r *http.Request) {
