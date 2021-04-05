@@ -1,0 +1,26 @@
+[
+    {
+    "id":"c9dsse3-7986-4322b-9b463223-64e75b",
+    "name":"Book",
+    "description":"English book",
+    "price":37778,
+    "isAvailable":true
+
+},
+
+    {
+        "id":"12c9232e3-7986-41eb326-98fa9b64e75b",
+        "name":"i14",
+        "description":"unique",
+        "price":323,
+        "isAvailable":true
+        
+    },
+
+        {"id":"c98e6fe3-7986-41eb-9b46-98fa9b64e75b",
+            "name":"TV",
+            "description":"Samsung",
+            "price":15266,
+            "isAvailable":true
+          
+        }]
